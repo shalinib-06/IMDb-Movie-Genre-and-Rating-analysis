@@ -2,9 +2,9 @@
 
 **Explore movie genres, IMDb ratings, and key trends in the top 1000 movies dataset.**
 
-Kaggle Notebook:
-Check my kaggle for dataset:
-https://www.kaggle.com/code/shalinibalaji/imdb-top-1000-movies-genre-rating-analysis-eda
+##### Kaggle Notebook:
+- Check my kaggle for dataset:
+[Kaggle dataset](https://www.kaggle.com/code/shalinibalaji/imdb-top-1000-movies-genre-rating-analysis-eda)
 
 ---
 
@@ -31,8 +31,3 @@ The goal is to better understand how different genres relate to IMDb ratings and
 - **Python**  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, NLTK (VADER)  
 - **Environment:** Kaggle Notebook / Jupyter Notebook / Google collab
-
----
-
-## 📂 Repository Structure
-
